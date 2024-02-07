@@ -1,6 +1,6 @@
 package testClasses;
 
-public class profiletest{
+public class loginTest {
 	
 	public void loginVerify()
 	{
